@@ -1,0 +1,57 @@
+.ui-state-highlight{
+    border: 1px dashed #ccc;
+}
+
+.sorting tr:not(.home){
+    cursor: pointer;
+}
+
+#imgPreview{
+    margin: 20px;
+}
+
+#noimage{
+    width: 100px;
+    height: 100px;
+}
+
+img.pimage{
+    width: 150px;
+}
+
+a.pa{
+    display: inline-block;
+    height: 160px;
+}
+
+.row.products .p{
+    margin-top: 20px;
+}
+
+img.spi{
+    width: 100%;
+}
+
+ul.gallery li{
+    display: inline-block;
+    list-style: none;
+    width: 100px;
+    margin-right:10px 
+}
+
+
+img.cpi{
+    height: 100px;
+    width: 100px
+}
+
+.alignmiddle td{
+    vertical-align: middle;
+}
+
+
+.alert-error{
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
